@@ -1,0 +1,919 @@
+2019-07-18 13:18:47,007:INFO: Loading the datasets...
+2019-07-18 13:19:28,160:INFO: Loading the datasets...
+2019-07-18 13:19:37,133:INFO: Starting training for 5 epoch(s)
+2019-07-18 13:20:15,930:INFO: Loading the datasets...
+2019-07-18 13:20:16,045:INFO: Starting training for 5 epoch(s)
+2019-07-18 13:20:16,046:INFO: Epoch 1/5
+2019-07-18 13:21:06,965:INFO: Loading the datasets...
+2019-07-18 13:21:07,012:INFO: Starting training for 5 epoch(s)
+2019-07-18 13:21:07,013:INFO: Epoch 1/5
+2019-07-18 13:27:25,871:INFO: Loading the datasets...
+2019-07-18 13:27:25,960:INFO: Starting training for 5 epoch(s)
+2019-07-18 13:27:25,960:INFO: Epoch 1/5
+2019-07-18 14:19:26,269:INFO: Loading the datasets...
+2019-07-18 14:19:26,358:INFO: Starting training for 5 epoch(s)
+2019-07-18 14:19:26,358:INFO: Epoch 1/5
+2019-07-18 14:21:50,379:INFO: Loading the datasets...
+2019-07-18 14:21:50,487:INFO: Starting training for 5 epoch(s)
+2019-07-18 14:21:50,488:INFO: Epoch 1/5
+2019-07-18 14:26:57,703:INFO: Loading the datasets...
+2019-07-18 14:26:57,791:INFO: Starting training for 5 epoch(s)
+2019-07-18 14:26:57,792:INFO: Epoch 1/5
+2019-07-18 14:27:31,619:INFO: Loading the datasets...
+2019-07-18 14:27:31,669:INFO: Starting training for 5 epoch(s)
+2019-07-18 14:27:31,669:INFO: Epoch 1/5
+2019-07-18 14:36:42,980:INFO: Loading the datasets...
+2019-07-18 14:36:43,125:INFO: Starting training for 5 epoch(s)
+2019-07-18 14:36:43,125:INFO: Epoch 1/5
+2019-07-18 14:37:00,358:INFO: Epoch: 0	Training Loss: 0.594683	Validation Loss: 0.653422
+2019-07-18 14:37:00,873:INFO: Epoch: 0	Training Loss: 0.594683	Validation Loss: 0.411274
+2019-07-18 14:37:01,357:INFO: Epoch: 0	Training Loss: 0.594683	Validation Loss: 0.425896
+2019-07-18 14:37:01,792:INFO: Epoch: 0	Training Loss: 0.594683	Validation Loss: 0.427620
+2019-07-18 14:37:02,299:INFO: Epoch: 0	Training Loss: 0.594683	Validation Loss: 0.429729
+2019-07-18 14:38:32,455:INFO: Loading the datasets...
+2019-07-18 14:38:32,525:INFO: Starting training for 5 epoch(s)
+2019-07-18 14:38:32,525:INFO: Epoch 1/5
+2019-07-18 14:38:51,814:INFO: Epoch: 0	Training Loss: 0.594683	Validation Loss: 0.653422
+2019-07-18 14:38:52,235:INFO: Epoch: 0	Training Loss: 0.594683	Validation Loss: 0.411274
+2019-07-18 14:38:52,645:INFO: Epoch: 0	Training Loss: 0.594683	Validation Loss: 0.425896
+2019-07-18 14:38:53,058:INFO: Epoch: 0	Training Loss: 0.594683	Validation Loss: 0.427620
+2019-07-18 14:38:53,603:INFO: Epoch: 0	Training Loss: 0.594683	Validation Loss: 0.429729
+2019-07-18 14:38:53,745:INFO: Current best model found at epoch 0
+2019-07-18 14:38:55,310:INFO: Test Loss: 0.448974
+
+2019-07-18 14:38:55,311:INFO: 
+Test Accuracy: 83% (8398/10000)
+2019-07-18 14:38:55,312:INFO: Epoch 2/5
+2019-07-18 14:39:15,138:INFO: Epoch: 1	Training Loss: 0.384217	Validation Loss: 0.631982
+2019-07-18 14:39:15,761:INFO: Epoch: 1	Training Loss: 0.384217	Validation Loss: 0.357688
+2019-07-18 14:39:16,322:INFO: Epoch: 1	Training Loss: 0.384217	Validation Loss: 0.370748
+2019-07-18 14:39:16,750:INFO: Epoch: 1	Training Loss: 0.384217	Validation Loss: 0.369070
+2019-07-18 14:39:17,166:INFO: Epoch: 1	Training Loss: 0.384217	Validation Loss: 0.369954
+2019-07-18 14:39:17,297:INFO: Current best model found at epoch 1
+2019-07-18 14:39:18,936:INFO: Test Loss: 0.382417
+
+2019-07-18 14:39:18,937:INFO: 
+Test Accuracy: 86% (8604/10000)
+2019-07-18 14:39:18,937:INFO: Epoch 3/5
+2019-07-18 14:39:35,139:INFO: Epoch: 2	Training Loss: 0.334733	Validation Loss: 0.579963
+2019-07-18 14:39:35,579:INFO: Epoch: 2	Training Loss: 0.334733	Validation Loss: 0.311819
+2019-07-18 14:39:36,007:INFO: Epoch: 2	Training Loss: 0.334733	Validation Loss: 0.324050
+2019-07-18 14:39:36,427:INFO: Epoch: 2	Training Loss: 0.334733	Validation Loss: 0.326400
+2019-07-18 14:39:36,847:INFO: Epoch: 2	Training Loss: 0.334733	Validation Loss: 0.325346
+2019-07-18 14:39:36,953:INFO: Current best model found at epoch 2
+2019-07-18 14:39:38,486:INFO: Test Loss: 0.342227
+
+2019-07-18 14:39:38,487:INFO: 
+Test Accuracy: 87% (8750/10000)
+2019-07-18 14:39:38,487:INFO: Epoch 4/5
+2019-07-18 14:39:55,616:INFO: Epoch: 3	Training Loss: 0.307141	Validation Loss: 0.585828
+2019-07-18 14:39:56,116:INFO: Epoch: 3	Training Loss: 0.307141	Validation Loss: 0.315790
+2019-07-18 14:39:56,601:INFO: Epoch: 3	Training Loss: 0.307141	Validation Loss: 0.326875
+2019-07-18 14:39:57,082:INFO: Epoch: 3	Training Loss: 0.307141	Validation Loss: 0.331212
+2019-07-18 14:39:57,513:INFO: Epoch: 3	Training Loss: 0.307141	Validation Loss: 0.330699
+2019-07-18 14:39:59,189:INFO: Test Loss: 0.339503
+
+2019-07-18 14:39:59,190:INFO: 
+Test Accuracy: 87% (8754/10000)
+2019-07-18 14:39:59,191:INFO: Epoch 5/5
+2019-07-18 14:40:22,162:INFO: Epoch: 4	Training Loss: 0.286329	Validation Loss: 0.559921
+2019-07-18 14:40:22,705:INFO: Epoch: 4	Training Loss: 0.286329	Validation Loss: 0.297149
+2019-07-18 14:40:24,043:INFO: Epoch: 4	Training Loss: 0.286329	Validation Loss: 0.310393
+2019-07-18 14:40:24,599:INFO: Epoch: 4	Training Loss: 0.286329	Validation Loss: 0.311555
+2019-07-18 14:40:25,047:INFO: Epoch: 4	Training Loss: 0.286329	Validation Loss: 0.311676
+2019-07-18 14:40:25,169:INFO: Current best model found at epoch 4
+2019-07-18 14:40:27,059:INFO: Test Loss: 0.320466
+
+2019-07-18 14:40:27,069:INFO: 
+Test Accuracy: 88% (8829/10000)
+2019-07-18 14:40:37,573:INFO: Loading the datasets...
+2019-07-18 14:40:37,645:INFO: Starting training for 5 epoch(s)
+2019-07-18 14:40:37,645:INFO: Epoch 1/5
+2019-07-18 14:40:56,802:INFO: Epoch0 / Batch 1	Training Loss: 0.594683	Validation Loss: 0.653422
+2019-07-18 14:40:57,483:INFO: Epoch0 / Batch 101	Training Loss: 0.594683	Validation Loss: 0.411274
+2019-07-18 14:40:57,926:INFO: Epoch0 / Batch 201	Training Loss: 0.594683	Validation Loss: 0.425896
+2019-07-18 14:40:58,338:INFO: Epoch0 / Batch 301	Training Loss: 0.594683	Validation Loss: 0.427620
+2019-07-18 14:40:58,764:INFO: Epoch0 / Batch 401	Training Loss: 0.594683	Validation Loss: 0.429729
+2019-07-18 14:40:58,871:INFO: Current best model found at epoch 0
+2019-07-18 14:41:00,364:INFO: Test Loss: 0.448974
+
+2019-07-18 14:41:00,365:INFO: 
+Test Accuracy: 83% (8398/10000)
+2019-07-18 14:41:00,365:INFO: Epoch 2/5
+2019-07-18 14:46:50,002:INFO: Loading the datasets...
+2019-07-18 14:46:50,173:INFO: Starting training for 5 epoch(s)
+2019-07-18 14:46:50,173:INFO: Epoch 1/5
+2019-07-18 14:47:12,755:INFO: Epoch0 / Batch 1	Training Loss: 0.594683	Validation Loss: 0.653422
+2019-07-18 14:47:13,214:INFO: Epoch0 / Batch 101	Training Loss: 0.594683	Validation Loss: 0.411274
+2019-07-18 14:47:13,668:INFO: Epoch0 / Batch 201	Training Loss: 0.594683	Validation Loss: 0.425896
+2019-07-18 14:47:14,107:INFO: Epoch0 / Batch 301	Training Loss: 0.594683	Validation Loss: 0.427620
+2019-07-18 14:47:14,550:INFO: Epoch0 / Batch 401	Training Loss: 0.594683	Validation Loss: 0.429729
+2019-07-18 14:47:14,669:INFO: Current best model found at epoch 0
+2019-07-18 14:47:17,981:INFO: Loading the datasets...
+2019-07-18 14:47:18,028:INFO: Starting training for 5 epoch(s)
+2019-07-18 14:47:18,029:INFO: Epoch 1/5
+2019-07-18 14:47:34,768:INFO: Epoch0 / Batch 1	Training Loss: 0.594683	Validation Loss: 0.653422
+2019-07-18 14:47:35,182:INFO: Epoch0 / Batch 101	Training Loss: 0.594683	Validation Loss: 0.411274
+2019-07-18 14:47:35,589:INFO: Epoch0 / Batch 201	Training Loss: 0.594683	Validation Loss: 0.425896
+2019-07-18 14:47:35,994:INFO: Epoch0 / Batch 301	Training Loss: 0.594683	Validation Loss: 0.427620
+2019-07-18 14:47:36,398:INFO: Epoch0 / Batch 401	Training Loss: 0.594683	Validation Loss: 0.429729
+2019-07-18 14:47:36,506:INFO: Current best model found at epoch 0
+2019-07-18 14:47:38,014:INFO: Test Loss: 0.448974
+
+2019-07-18 14:47:38,015:INFO: 
+Test Accuracy: 83% (8398/10000)
+2019-07-18 14:47:38,015:INFO: Epoch 2/5
+2019-07-18 14:47:54,608:INFO: Epoch1 / Batch 1	Training Loss: 0.384217	Validation Loss: 0.631982
+2019-07-18 14:47:55,029:INFO: Epoch1 / Batch 101	Training Loss: 0.384217	Validation Loss: 0.357688
+2019-07-18 14:47:55,445:INFO: Epoch1 / Batch 201	Training Loss: 0.384217	Validation Loss: 0.370748
+2019-07-18 14:47:55,879:INFO: Epoch1 / Batch 301	Training Loss: 0.384217	Validation Loss: 0.369070
+2019-07-18 14:47:56,355:INFO: Epoch1 / Batch 401	Training Loss: 0.384217	Validation Loss: 0.369954
+2019-07-18 14:47:56,466:INFO: Current best model found at epoch 1
+2019-07-18 14:47:58,151:INFO: Test Loss: 0.382417
+
+2019-07-18 14:47:58,152:INFO: 
+Test Accuracy: 86% (8604/10000)
+2019-07-18 14:47:58,153:INFO: Epoch 3/5
+2019-07-18 14:48:26,543:INFO: Epoch2 / Batch 1	Training Loss: 0.334733	Validation Loss: 0.579963
+2019-07-18 14:48:27,046:INFO: Epoch2 / Batch 101	Training Loss: 0.334733	Validation Loss: 0.311819
+2019-07-18 14:48:27,547:INFO: Epoch2 / Batch 201	Training Loss: 0.334733	Validation Loss: 0.324050
+2019-07-18 14:48:28,110:INFO: Epoch2 / Batch 301	Training Loss: 0.334733	Validation Loss: 0.326400
+2019-07-18 14:48:28,574:INFO: Epoch2 / Batch 401	Training Loss: 0.334733	Validation Loss: 0.325346
+2019-07-18 14:48:28,687:INFO: Current best model found at epoch 2
+2019-07-18 14:48:30,466:INFO: Test Loss: 0.342227
+
+2019-07-18 14:48:30,466:INFO: 
+Test Accuracy: 87% (8750/10000)
+2019-07-18 14:48:30,466:INFO: Epoch 4/5
+2019-07-18 14:48:57,967:INFO: Loading the datasets...
+2019-07-18 14:48:58,038:INFO: Starting training for 5 epoch(s)
+2019-07-18 14:48:58,038:INFO: Epoch 1/5
+2019-07-18 14:49:16,115:INFO: Current best model found at epoch 0
+2019-07-18 14:49:17,617:INFO: Test Loss: 0.448974
+
+2019-07-18 14:49:17,618:INFO: 
+Test Accuracy: 83% (8398/10000)
+2019-07-18 14:49:17,618:INFO: Epoch 2/5
+2019-07-18 14:56:15,887:INFO: Loading the datasets...
+2019-07-18 14:56:15,962:INFO: Starting training for 5 epoch(s)
+2019-07-18 14:56:15,962:INFO: Epoch 1/5
+2019-07-18 14:56:28,045:INFO: Loading the datasets...
+2019-07-18 14:56:28,093:INFO: Starting training for 5 epoch(s)
+2019-07-18 14:56:28,093:INFO: Epoch 1/5
+2019-07-18 14:56:47,349:INFO: Train loss: 0.5946825742721558
+Valid loss: 0.4277782440185547
+Test loss: 0.4489741325378418
+Accuracy: 83.98
+2019-07-18 14:56:47,350:INFO: Model saved.
+2019-07-18 14:56:47,352:INFO: Epoch 2/5
+2019-07-18 14:58:45,683:INFO: Loading the datasets...
+2019-07-18 14:58:45,778:INFO: Starting training for 5 epoch(s)
+2019-07-18 14:58:45,778:INFO: Epoch 1/5
+2019-07-18 14:59:26,927:INFO: Loading the datasets...
+2019-07-18 14:59:26,976:INFO: Starting training for 5 epoch(s)
+2019-07-18 14:59:26,976:INFO: Epoch 1/5
+2019-07-18 14:59:46,498:INFO: Train loss: 0.595
+Valid loss: 0.428
+Test loss: 0.449
+Accuracy: 83.98%
+
+2019-07-18 14:59:46,501:INFO: Epoch 2/5
+2019-07-18 15:00:28,497:INFO: Loading the datasets...
+
+2019-07-18 15:00:28,549:INFO: Starting training for 5 epoch(s)
+2019-07-18 15:00:28,549:INFO: Epoch 1/5
+2019-07-18 15:00:47,795:INFO: Train loss: 0.595
+Valid loss: 0.428
+Test loss: 0.449
+Accuracy: 83.98%
+
+2019-07-18 15:00:47,799:INFO: Epoch 2/5
+2019-07-18 15:01:07,496:INFO: Train loss: 0.384
+Valid loss: 0.368
+Test loss: 0.382
+Accuracy: 86.04%
+
+2019-07-18 15:01:07,498:INFO: Epoch 3/5
+2019-07-18 15:01:27,225:INFO: Train loss: 0.335
+Valid loss: 0.324
+Test loss: 0.342
+Accuracy: 87.5%
+
+2019-07-18 15:01:27,228:INFO: Epoch 4/5
+2019-07-18 15:01:46,912:INFO: Train loss: 0.307
+Valid loss: 0.329
+Test loss: 0.34
+Accuracy: 87.54%
+
+2019-07-18 15:01:46,913:INFO: Epoch 5/5
+2019-07-18 15:02:06,584:INFO: Train loss: 0.286
+Valid loss: 0.311
+Test loss: 0.32
+Accuracy: 88.29%
+
+2019-07-18 16:38:17,846:INFO: Loading datasets...
+
+2019-07-18 16:38:17,976:INFO: Starting training for 5 epoch(s)
+2019-07-18 16:38:17,976:INFO: Epoch 1/5
+2019-07-18 16:38:40,074:INFO: Train loss: 0.595
+Valid loss: 0.428
+Test loss: 0.449
+Accuracy: 83.98%
+
+2019-07-18 16:38:40,080:INFO: Epoch 2/5
+2019-07-18 17:02:18,703:INFO: Loading datasets...
+
+2019-07-18 17:02:40,921:INFO: Loading datasets...
+
+2019-07-18 17:02:59,702:INFO: Loading datasets...
+
+2019-07-18 17:02:59,753:INFO: Starting training for 5 epoch(s)
+2019-07-18 17:02:59,753:INFO: Epoch 1/5
+2019-07-18 17:03:18,192:INFO: Train loss: 0.604
+Valid loss: 0.5
+Test loss: 0.509
+Accuracy: 80.57%
+
+2019-07-18 17:03:18,197:INFO: Epoch 2/5
+2019-07-18 17:03:40,304:INFO: Train loss: 0.465
+Valid loss: 0.444
+Test loss: 0.456
+Accuracy: 83.41%
+
+2019-07-18 17:03:40,308:INFO: Epoch 3/5
+2019-07-18 17:25:09,021:INFO: Loading datasets...
+
+2019-07-18 17:25:09,184:INFO: Starting training for 5 epoch(s)
+2019-07-18 17:25:09,184:INFO: Epoch 1/5
+2019-07-18 17:25:27,704:INFO: Train loss: 0.604
+Valid loss: 0.5
+Test loss: 0.509
+Accuracy: 80.57%
+
+2019-07-18 17:26:17,453:INFO: Loading datasets...
+
+2019-07-18 17:26:17,502:INFO: Starting training for 5 epoch(s)
+2019-07-18 17:26:17,502:INFO: Epoch 1/5
+2019-07-18 17:26:36,015:INFO: Train loss: 0.604
+Valid loss: 0.5
+Test loss: 0.509
+Accuracy: 80.57%
+
+2019-07-18 17:26:36,026:INFO: Epoch 2/5
+2019-07-18 17:26:57,771:INFO: Train loss: 0.465
+Valid loss: 0.444
+Test loss: 0.456
+Accuracy: 83.41%
+
+2019-07-18 17:26:57,775:INFO: Epoch 3/5
+2019-07-18 17:27:16,574:INFO: Train loss: 0.448
+Valid loss: 0.451
+Test loss: 0.45
+Accuracy: 84.11%
+
+2019-07-18 17:27:16,580:INFO: Epoch 4/5
+
+Loading datasets...
+
+Failed to import cuda module: No module named 'caffe2.python.caffe2_pybind11_state_gpu'
+Failed to import AMD hip module: No module named 'caffe2.python.caffe2_pybind11_state_hip'
+This caffe2 python run does not have GPU support. Will run in CPU only mode.
+Epoch 1/10
+Failed to import cuda module: No module named 'caffe2.python.caffe2_pybind11_state_gpu'
+Failed to import AMD hip module: No module named 'caffe2.python.caffe2_pybind11_state_hip'
+This caffe2 python run does not have GPU support. Will run in CPU only mode.
+
+Loading datasets...
+
+Epoch 1/10
+
+Train loss: 0.546
+Valid loss: 0.414
+Test loss:  0.424
+Accuracy: 84.91%
+
+Epoch 2/10
+Failed to import cuda module: No module named 'caffe2.python.caffe2_pybind11_state_gpu'
+Failed to import AMD hip module: No module named 'caffe2.python.caffe2_pybind11_state_hip'
+This caffe2 python run does not have GPU support. Will run in CPU only mode.
+
+Loading datasets...
+
+Epoch 1/10
+Failed to import cuda module: No module named 'caffe2.python.caffe2_pybind11_state_gpu'
+Failed to import AMD hip module: No module named 'caffe2.python.caffe2_pybind11_state_hip'
+This caffe2 python run does not have GPU support. Will run in CPU only mode.
+
+Loading datasets...
+
+Epoch 1/10
+Failed to import cuda module: No module named 'caffe2.python.caffe2_pybind11_state_gpu'
+Failed to import AMD hip module: No module named 'caffe2.python.caffe2_pybind11_state_hip'
+This caffe2 python run does not have GPU support. Will run in CPU only mode.
+
+Loading datasets...
+
+Epoch 1/10
+Failed to import cuda module: No module named 'caffe2.python.caffe2_pybind11_state_gpu'
+Failed to import AMD hip module: No module named 'caffe2.python.caffe2_pybind11_state_hip'
+This caffe2 python run does not have GPU support. Will run in CPU only mode.
+Loading datasets...
+
+Epoch 1/10
+
+Train loss: 0.546
+Valid loss: 0.414
+Test loss:  0.424
+Accuracy: 84.91%
+
+Epoch 2/10
+
+Train loss: 0.412
+Valid loss: 0.426
+Test loss:  0.436
+Accuracy: 84.6%
+
+Epoch 3/10
+
+Train loss: 0.374
+Valid loss: 0.404
+Test loss:  0.423
+Accuracy: 86.07%
+
+Epoch 4/10
+
+Train loss: 0.36
+Valid loss: 0.375
+Test loss:  0.397
+Accuracy: 86.01%
+
+Epoch 5/10
+
+Train loss: 0.358
+Valid loss: 0.387
+Test loss:  0.405
+Accuracy: 85.71%
+
+Epoch 6/10
+
+Train loss: 0.34
+Valid loss: 0.357
+Test loss:  0.37
+Accuracy: 87.29%
+
+Epoch 7/10
+
+Train loss: 0.344
+Valid loss: 0.374
+Test loss:  0.395
+Accuracy: 86.33%
+
+Epoch 8/10
+
+Train loss: 0.327
+Valid loss: 0.377
+Test loss:  0.389
+Accuracy: 86.61%
+
+Epoch 9/10
+
+Train loss: 0.333
+Valid loss: 0.379
+Test loss:  0.4
+Accuracy: 86.49%
+
+Epoch 10/10
+
+Train loss: 0.336
+Valid loss: 0.374
+Test loss:  0.388
+Accuracy: 86.65%
+
+Failed to import cuda module: No module named 'caffe2.python.caffe2_pybind11_state_gpu'
+Failed to import AMD hip module: No module named 'caffe2.python.caffe2_pybind11_state_hip'
+This caffe2 python run does not have GPU support. Will run in CPU only mode.
+Loading datasets...
+
+Epoch 1/10
+Train loss: 0.546
+Valid loss: 0.414
+Test loss:  0.424
+Accuracy: 84.91%
+
+Epoch 2/10
+Train loss: 0.412
+Valid loss: 0.426
+Test loss:  0.436
+Accuracy: 84.6%
+
+Epoch 3/10
+Train loss: 0.374
+Valid loss: 0.404
+Test loss:  0.423
+Accuracy: 86.07%
+
+Epoch 4/10
+Train loss: 0.36
+Valid loss: 0.375
+Test loss:  0.397
+Accuracy: 86.01%
+
+Epoch 5/10
+Failed to import cuda module: No module named 'caffe2.python.caffe2_pybind11_state_gpu'
+Failed to import AMD hip module: No module named 'caffe2.python.caffe2_pybind11_state_hip'
+This caffe2 python run does not have GPU support. Will run in CPU only mode.
+Loading datasets...
+
+Epoch 1/10
+Train loss: 0.667
+Valid loss: 0.464
+Test loss:  0.472
+Accuracy: 82.74%
+
+Epoch 2/10
+Train loss: 0.42
+Valid loss: 0.389
+Test loss:  0.396
+Accuracy: 85.98%
+
+Epoch 3/10
+Train loss: 0.356
+Valid loss: 0.366
+Test loss:  0.378
+Accuracy: 86.18%
+
+Epoch 4/10
+Train loss: 0.324
+Valid loss: 0.33
+Test loss:  0.337
+Accuracy: 87.85%
+
+Epoch 5/10
+Train loss: 0.302
+Valid loss: 0.339
+Test loss:  0.347
+Accuracy: 87.48%
+
+Epoch 6/10
+Train loss: 0.285
+Valid loss: 0.324
+Test loss:  0.325
+Accuracy: 88.0%
+
+Epoch 7/10
+Train loss: 0.272
+Valid loss: 0.315
+Test loss:  0.317
+Accuracy: 88.16%
+
+Epoch 8/10
+Train loss: 0.259
+Valid loss: 0.298
+Test loss:  0.299
+Accuracy: 89.22%
+
+Epoch 9/10
+Train loss: 0.247
+Valid loss: 0.303
+Test loss:  0.302
+Accuracy: 89.12%
+
+Epoch 10/10
+Train loss: 0.235
+Valid loss: 0.299
+Test loss:  0.295
+Accuracy: 89.38%
+
+Failed to import cuda module: No module named 'caffe2.python.caffe2_pybind11_state_gpu'
+Failed to import AMD hip module: No module named 'caffe2.python.caffe2_pybind11_state_hip'
+This caffe2 python run does not have GPU support. Will run in CPU only mode.
+Loading datasets...
+
+Epoch 1/10
+Train loss: 0.667
+Valid loss: 0.464
+Test loss:  0.472
+Accuracy: 82.74%
+
+Epoch 2/10
+Train loss: 0.42
+Valid loss: 0.389
+Test loss:  0.396
+Accuracy: 85.98%
+
+Epoch 3/10
+Train loss: 0.356
+Valid loss: 0.366
+Test loss:  0.378
+Accuracy: 86.18%
+
+Epoch 4/10
+Train loss: 0.324
+Valid loss: 0.33
+Test loss:  0.337
+Accuracy: 87.85%
+
+Epoch 5/10
+Train loss: 0.302
+Valid loss: 0.339
+Test loss:  0.347
+Accuracy: 87.48%
+
+Epoch 6/10
+Train loss: 0.285
+Valid loss: 0.324
+Test loss:  0.325
+Accuracy: 88.0%
+
+Epoch 7/10
+Train loss: 0.272
+Valid loss: 0.315
+Test loss:  0.317
+Accuracy: 88.16%
+
+Epoch 8/10
+Train loss: 0.259
+Valid loss: 0.298
+Test loss:  0.299
+Accuracy: 89.22%
+
+Epoch 9/10
+Train loss: 0.247
+Valid loss: 0.303
+Test loss:  0.302
+Accuracy: 89.12%
+
+Epoch 10/10
+Train loss: 0.235
+Valid loss: 0.299
+Test loss:  0.295
+Accuracy: 89.38%
+
+Failed to import cuda module: No module named 'caffe2.python.caffe2_pybind11_state_gpu'
+Failed to import AMD hip module: No module named 'caffe2.python.caffe2_pybind11_state_hip'
+This caffe2 python run does not have GPU support. Will run in CPU only mode.
+Loading datasets...
+
+Epoch 1/10
+Train loss: 0.667
+Valid loss: 0.464
+Test loss:  0.472
+Accuracy: 82.74%
+
+Epoch 2/10
+Train loss: 0.42
+Valid loss: 0.389
+Test loss:  0.396
+Accuracy: 85.98%
+
+Epoch 3/10
+Train loss: 0.356
+Valid loss: 0.366
+Test loss:  0.378
+Accuracy: 86.18%
+
+Epoch 4/10
+Train loss: 0.324
+Valid loss: 0.33
+Test loss:  0.337
+Accuracy: 87.85%
+
+Epoch 5/10
+Train loss: 0.302
+Valid loss: 0.339
+Test loss:  0.347
+Accuracy: 87.48%
+
+Epoch 6/10
+Train loss: 0.285
+Valid loss: 0.324
+Test loss:  0.325
+Accuracy: 88.0%
+
+Epoch 7/10
+Train loss: 0.272
+Valid loss: 0.315
+Test loss:  0.317
+Accuracy: 88.16%
+
+Epoch 8/10
+Train loss: 0.259
+Valid loss: 0.298
+Test loss:  0.299
+Accuracy: 89.22%
+
+Epoch 9/10
+Train loss: 0.247
+Valid loss: 0.303
+Test loss:  0.302
+Accuracy: 89.12%
+
+Epoch 10/10
+Train loss: 0.235
+Valid loss: 0.299
+Test loss:  0.295
+Accuracy: 89.38%
+
+Failed to import cuda module: No module named 'caffe2.python.caffe2_pybind11_state_gpu'
+Failed to import AMD hip module: No module named 'caffe2.python.caffe2_pybind11_state_hip'
+This caffe2 python run does not have GPU support. Will run in CPU only mode.
+Loading datasets...
+
+Epoch 1/15
+Train loss: 0.667
+Valid loss: 0.464
+Test loss:  0.472
+Accuracy: 82.74%
+
+Epoch 2/15
+Train loss: 0.42
+Valid loss: 0.389
+Test loss:  0.396
+Accuracy: 85.98%
+
+Epoch 3/15
+Train loss: 0.356
+Valid loss: 0.366
+Test loss:  0.378
+Accuracy: 86.18%
+
+Epoch 4/15
+Train loss: 0.324
+Valid loss: 0.33
+Test loss:  0.337
+Accuracy: 87.85%
+
+Epoch 5/15
+Train loss: 0.302
+Valid loss: 0.339
+Test loss:  0.347
+Accuracy: 87.48%
+
+Epoch 6/15
+Train loss: 0.285
+Valid loss: 0.324
+Test loss:  0.325
+Accuracy: 88.0%
+
+Epoch 7/15
+Train loss: 0.272
+Valid loss: 0.315
+Test loss:  0.317
+Accuracy: 88.16%
+
+Epoch 8/15
+Train loss: 0.259
+Valid loss: 0.298
+Test loss:  0.299
+Accuracy: 89.22%
+
+Epoch 9/15
+Train loss: 0.247
+Valid loss: 0.303
+Test loss:  0.302
+Accuracy: 89.12%
+
+Epoch 10/15
+Train loss: 0.235
+Valid loss: 0.299
+Test loss:  0.295
+Accuracy: 89.38%
+
+Epoch 11/15
+Train loss: 0.226
+Valid loss: 0.289
+Test loss:  0.292
+Accuracy: 89.38%
+
+Epoch 12/15
+Train loss: 0.216
+Valid loss: 0.304
+Test loss:  0.311
+Accuracy: 89.29%
+
+Epoch 13/15
+Train loss: 0.207
+Valid loss: 0.31
+Test loss:  0.317
+Accuracy: 88.93%
+
+Epoch 14/15
+Train loss: 0.199
+Valid loss: 0.298
+Test loss:  0.299
+Accuracy: 89.34%
+
+Epoch 15/15
+Train loss: 0.192
+Valid loss: 0.304
+Test loss:  0.301
+Accuracy: 89.31%
+
+Failed to import cuda module: No module named 'caffe2.python.caffe2_pybind11_state_gpu'
+Failed to import AMD hip module: No module named 'caffe2.python.caffe2_pybind11_state_hip'
+This caffe2 python run does not have GPU support. Will run in CPU only mode.
+Failed to import cuda module: No module named 'caffe2.python.caffe2_pybind11_state_gpu'
+Failed to import AMD hip module: No module named 'caffe2.python.caffe2_pybind11_state_hip'
+This caffe2 python run does not have GPU support. Will run in CPU only mode.
+Failed to import cuda module: No module named 'caffe2.python.caffe2_pybind11_state_gpu'
+Failed to import AMD hip module: No module named 'caffe2.python.caffe2_pybind11_state_hip'
+This caffe2 python run does not have GPU support. Will run in CPU only mode.
+Loading datasets...
+
+Epoch 1/15
+Failed to import cuda module: No module named 'caffe2.python.caffe2_pybind11_state_gpu'
+Failed to import AMD hip module: No module named 'caffe2.python.caffe2_pybind11_state_hip'
+This caffe2 python run does not have GPU support. Will run in CPU only mode.
+Loading datasets...
+
+Epoch 1/15
+Train loss: 0.667
+Valid loss: 0.464
+Test loss:  0.472
+Accuracy: 82.74%
+
+Epoch 2/15
+Train loss: 0.42
+Valid loss: 0.389
+Test loss:  0.396
+Accuracy: 85.98%
+
+Epoch 3/15
+Train loss: 0.356
+Valid loss: 0.366
+Test loss:  0.378
+Accuracy: 86.18%
+
+Epoch 4/15
+Train loss: 0.324
+Valid loss: 0.33
+Test loss:  0.337
+Accuracy: 87.85%
+
+Epoch 5/15
+Train loss: 0.302
+Valid loss: 0.339
+Test loss:  0.347
+Accuracy: 87.48%
+
+Epoch 6/15
+Train loss: 0.285
+Valid loss: 0.324
+Test loss:  0.325
+Accuracy: 88.0%
+
+Epoch 7/15
+Train loss: 0.272
+Valid loss: 0.315
+Test loss:  0.317
+Accuracy: 88.16%
+
+Epoch 8/15
+Train loss: 0.259
+Valid loss: 0.298
+Test loss:  0.299
+Accuracy: 89.22%
+
+Epoch 9/15
+Train loss: 0.247
+Valid loss: 0.303
+Test loss:  0.302
+Accuracy: 89.12%
+
+Epoch 10/15
+Train loss: 0.235
+Valid loss: 0.299
+Test loss:  0.295
+Accuracy: 89.38%
+
+Epoch 11/15
+Train loss: 0.226
+Valid loss: 0.289
+Test loss:  0.292
+Accuracy: 89.38%
+
+Epoch 12/15
+Train loss: 0.216
+Valid loss: 0.304
+Test loss:  0.311
+Accuracy: 89.29%
+
+Epoch 13/15
+Train loss: 0.207
+Valid loss: 0.31
+Test loss:  0.317
+Accuracy: 88.93%
+
+Epoch 14/15
+Train loss: 0.199
+Valid loss: 0.298
+Test loss:  0.299
+Accuracy: 89.34%
+
+Epoch 15/15
+Train loss: 0.192
+Valid loss: 0.304
+Test loss:  0.301
+Accuracy: 89.31%
+
+Failed to import cuda module: No module named 'caffe2.python.caffe2_pybind11_state_gpu'
+Failed to import AMD hip module: No module named 'caffe2.python.caffe2_pybind11_state_hip'
+This caffe2 python run does not have GPU support. Will run in CPU only mode.
+Loading datasets...
+
+Epoch 1/15
+Train loss: 0.667
+Valid loss: 0.464
+Test loss:  0.472
+Accuracy: 82.74%
+
+Epoch 2/15
+Train loss: 0.42
+Valid loss: 0.389
+Test loss:  0.396
+Accuracy: 85.98%
+
+Epoch 3/15
+Train loss: 0.356
+Valid loss: 0.366
+Test loss:  0.378
+Accuracy: 86.18%
+
+Epoch 4/15
+Train loss: 0.324
+Valid loss: 0.33
+Test loss:  0.337
+Accuracy: 87.85%
+
+Epoch 5/15
+Train loss: 0.302
+Valid loss: 0.339
+Test loss:  0.347
+Accuracy: 87.48%
+
+Epoch 6/15
+Train loss: 0.285
+Valid loss: 0.324
+Test loss:  0.325
+Accuracy: 88.0%
+
+Epoch 7/15
+Train loss: 0.272
+Valid loss: 0.315
+Test loss:  0.317
+Accuracy: 88.16%
+
+Epoch 8/15
+Train loss: 0.259
+Valid loss: 0.298
+Test loss:  0.299
+Accuracy: 89.22%
+
+Epoch 9/15
+Train loss: 0.247
+Valid loss: 0.303
+Test loss:  0.302
+Accuracy: 89.12%
+
+Epoch 10/15
+Train loss: 0.235
+Valid loss: 0.299
+Test loss:  0.295
+Accuracy: 89.38%
+
+Epoch 11/15
+Train loss: 0.226
+Valid loss: 0.289
+Test loss:  0.292
+Accuracy: 89.38%
+
+Epoch 12/15
+Train loss: 0.216
+Valid loss: 0.304
+Test loss:  0.311
+Accuracy: 89.29%
+
+Epoch 13/15
+Train loss: 0.207
+Valid loss: 0.31
+Test loss:  0.317
+Accuracy: 88.93%
+
+Epoch 14/15
+Train loss: 0.199
+Valid loss: 0.298
+Test loss:  0.299
+Accuracy: 89.34%
+
+Epoch 15/15
+Train loss: 0.192
+Valid loss: 0.304
+Test loss:  0.301
+Accuracy: 89.31%
+
+Failed to import cuda module: No module named 'caffe2.python.caffe2_pybind11_state_gpu'
+Failed to import AMD hip module: No module named 'caffe2.python.caffe2_pybind11_state_hip'
+This caffe2 python run does not have GPU support. Will run in CPU only mode.
+Loading datasets...
+
+Epoch 1/15

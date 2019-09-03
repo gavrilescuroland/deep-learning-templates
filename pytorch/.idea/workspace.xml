@@ -127,11 +127,6 @@
               <item name="pytorch" type="b2602c69:ProjectViewProjectNode" />
               <item name="pytorch" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="pytorch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pytorch" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -183,12 +178,12 @@
       <option name="presentableId" value="Default" />
       <updated>1563382025330</updated>
       <workItem from="1563382032011" duration="38187000" />
-      <workItem from="1567546566733" duration="4082000" />
+      <workItem from="1567546566733" duration="4231000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42269000" />
+    <option name="totallyTimeSpent" value="42418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />

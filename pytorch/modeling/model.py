@@ -1,6 +1,5 @@
 import torch.nn as nn
 import torch.nn.functional as F
-from torchvision import models
 from torchsummary import summary
 
 
@@ -27,5 +26,6 @@ class Net(nn.Module):
         return x
 
 
+# Check your model
 # model = Net()
 # summary(model, (1, 28, 28))

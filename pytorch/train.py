@@ -40,7 +40,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
 
-    # Set the logger, import Tensorboard (fixes bugs with the logger)
+    # Set the logger, import Tensorboard (fixes conflict with the logger)
     set_logger(os.path.join(args.experiment_dir, 'train.log'))
     from torch.utils.tensorboard import SummaryWriter
 
@@ -67,14 +67,14 @@ if __name__ == '__main__':
     train_dl, valid_dl, test_dl = dl['train'], dl['valid'], dl['test']
 
 
-    # Define model, optimizer, loss and metrics
+    # Load model, optimizer, loss
     model = model.Net(cfg).cuda() if cuda else model.Net(cfg)
     optimizer = optim.Adam(model.parameters(), lr=cfg.TRAIN.LEARNING_RATE)
     loss_fn = nn.CrossEntropyLoss()
 
 
     # Start Tensorboard, display one batch and the graph
-    writer = SummaryWriter()
+    writer = SummaryWriter(args.experiment_dir + '/tensorboard')
     images, _ = next(iter(train_dl))
     grid = torchvision.utils.make_grid(images)
     writer.add_image('images', grid, 0)
@@ -82,5 +82,5 @@ if __name__ == '__main__':
 
 
     # Train model
-    train_and_evaluate(model, train_dl, valid_dl, test_dl, optimizer, loss_fn, cfg, writer, args.experiment_dir, args.checkpoint_dir)
+    train_and_evaluate(model, train_dl, valid_dl, test_dl, optimizer, loss_fn, writer, args.experiment_dir, args.checkpoint_dir)
 

@@ -10,8 +10,7 @@ Image.LOAD_TRUNCATED_IMAGES = True
 
 
 # Transformers
-transformer= transforms.Compose([transforms.ToTensor(), transforms.Normalize(mean=[0.5], std=[0.5])])
-
+transformer = transforms.Compose([transforms.ToTensor(), transforms.Normalize(mean=[0.5], std=[0.5])])
 
 
 def fetch_dataloaders(data_dir):
